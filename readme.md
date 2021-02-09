@@ -1,4 +1,4 @@
-##Steps(Mac):
+Steps(Mac):
 
 ```
 $ cd ~/Desktop
