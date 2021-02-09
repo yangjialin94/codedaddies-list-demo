@@ -16,7 +16,7 @@ $ python3 manage.py runserver
 ```
 ## URLs
 
-Home Page: http://127.0.0.1:8000/
+Home Page: http://127.0.0.1:8000/  
 Admin Page: http://127.0.0.1:8000/admin/
 
 ## Author
